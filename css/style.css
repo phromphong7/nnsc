@@ -248,8 +248,11 @@ footer {
 .hamburger {
     display: block;
 }
-.nnsc-title-box {
-    font-size: 2.5rem ;
+.nnsc-title-box h1 {
+    font-size: 4rem ;
+}
+.nnsc-title-box h3 {
+    font-size: 1.5rem;
 }
 .form-container {
     padding: 24px 20px;
